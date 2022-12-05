@@ -2,5 +2,6 @@
 
 This is the start of my book.
 Page 1 will help us understand Git flow.
-Java is cool!
+Java is cool
+
 James Bond is always with us!
